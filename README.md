@@ -1,7 +1,6 @@
 # Simple Album Project Using React Native
 
-(https://www.versioneye.com/user/projects/561946aca193340f320004b1)
-[![License](https://img.shields.io/npm/l/express.svg)](http://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/npm/l/express.svg)](http://opensource.org/licenses/MIT)(https://www.versioneye.com/user/projects/561946aca193340f320004b1)
 
 # Technologies
 
