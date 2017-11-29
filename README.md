@@ -4,7 +4,7 @@
 
 # Technologies
 
-* [React](https://reactjs.org/)
+* [React 16.0.0](https://reactjs.org/)
 * [React Native 0.50.4](https://facebook.github.io/react-native/)
 * ["axios 0.17.1" for Promise based HTTP client](https://github.com/axios/axios)
 
