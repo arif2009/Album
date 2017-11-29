@@ -24,13 +24,9 @@ $ git clone git@github.com:arif2009/Album.git
 You need to have [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/) and [Python 2 (Not mandatory)](https://www.python.org/) installed on your machine before running the followings:
 
 ```bash
-$ npm install -g bower
-$ npm install -g gulp
-$ gem install scss_lint
 
-$ cd /path/to/RecruitmentManagementSystem.App
+$ cd /path/to/Album
 $ npm install
-$ gulp
 
 # Build and run the solution
 ```
@@ -40,7 +36,7 @@ For more information please visit [bower.io](http://bower.io/) and [gulp.js](htt
 
 This application is released under the [MIT](http://www.opensource.org/licenses/MIT) License.
 
-Copyright (c) 2016 [BrainStation 23 Ltd.](http://brainstation-23.com/)
+Copyright (c) 2017 [Arifur Rahman (Sazal)](http://arifur-rahman-sazal.blogspot.com/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
