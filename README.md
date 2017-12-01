@@ -2,10 +2,6 @@
 
 [![License](https://img.shields.io/npm/l/express.svg)](http://opensource.org/licenses/MIT)
 
-# O/P
-
-![alt text](https://i.imgur.com/HjE0UoH.jpg "Simple Album")
-
 # Technologies
 
 * [React 16.0.0](https://reactjs.org/)
@@ -33,6 +29,10 @@ $ npm i --do-not-make-me-cry
 
 # Build and run the solution
 ```
+
+# O/P
+
+![alt text](https://i.imgur.com/HjE0UoH.jpg "Simple Album")
 
 # License
 
