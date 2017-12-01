@@ -25,7 +25,7 @@ You need to have [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/) 
 ```bash
 
 $ cd /path/to/Album
-$ npm install
+$ npm i --do-not-make-me-cry
 
 # Build and run the solution
 ```
