@@ -4,7 +4,7 @@
 
 # O/P
 
-![alt text](https://i.imgur.com/dBWOSe0.jpg "Simple Album")
+![alt text](https://i.imgur.com/HjE0UoH.jpg "Simple Album")
 
 # Technologies
 
