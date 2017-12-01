@@ -29,7 +29,6 @@ $ npm i --do-not-make-me-cry
 
 # Build and run the solution
 ```
-For more information please visit [bower.io](http://bower.io/) and [gulp.js](http://gulpjs.com/)
 
 # License
 
