@@ -30,6 +30,10 @@ $ npm i --do-not-make-me-cry
 # Build and run the solution
 ```
 
+# O/P
+
+![alt text](https://i.imgur.com/HjE0UoH.jpg "Simple Album")
+
 # License
 
 This application is released under the [MIT](http://www.opensource.org/licenses/MIT) License.
